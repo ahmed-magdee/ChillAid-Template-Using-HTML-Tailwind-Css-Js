@@ -1,12 +1,14 @@
 .landing {
-  background-image: url('../images/landing background.jpg');
+  background-image: url("../images/landing background.jpg");
   background-size: cover;
 }
 .info {
-  background-image: url('../images/info land.jpg');
+  background-image: url("../images/info land.jpg");
   background-size: cover;
 }
 footer {
-  background-image: url('../images/footer.jpg');
-  backgound-size: cover;
+  background-image: url("../images/footer.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
